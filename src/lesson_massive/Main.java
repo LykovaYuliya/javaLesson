@@ -22,6 +22,9 @@ public class Main {
     }
     System.out.println("Минимальное число, " + min);
 
+    int[] massive = new int[] {1,2,3};
+    
+
 
     }
 }
